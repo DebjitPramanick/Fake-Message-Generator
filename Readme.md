@@ -27,5 +27,5 @@ Hi, this is a simple web app which send messages anonymously to another number. 
 - Type @<YOUR_MESSAGE>@<PHONE_NO> to send anonymous message.
 
 ## Demo
-<img src="/demo.gif" width="1200" height="600"/>
+<img src="/demo.gif" width="1200"/>
 
