@@ -28,5 +28,5 @@ Hi, this is a simple web app which send messages anonymously to another number. 
 
 ## Video
 ```
-![video]("./screenshots/FakeMessageApp.mp4")
+![video]("./screenshots/demo.gif")
 ```
