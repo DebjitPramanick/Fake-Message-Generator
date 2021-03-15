@@ -26,7 +26,8 @@ Hi, this is a simple web app which send messages anonymously to another number. 
 - Type $generate in the input field of Discord to see how to send messages.
 - Type @<YOUR_MESSAGE>@<PHONE_NO> to send anonymous message.
 
-## Video
-
-![video](demo.gif)
+## Demo
+<div align="center">
+	![video](demo.gif)
+</div>
 
