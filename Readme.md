@@ -5,10 +5,10 @@ Hi, this is a simple web app which send messages anonymously to another number. 
 ## Collaborators
 
 - **Bhaskar Sengupta** - Just another aspiring web developer.... ; -)
-	  GitHub Username -  ![kudos-dot-com](https://github.com/kudos-dot-com)
+    GitHub Username -  ![kudos-dot-com](https://github.com/kudos-dot-com)
 	  
 - **Debjit Pramanick** - Full Stack developer | Competitive coder on LeetCode & Hackerrank |
-	  GitHub Username -  ![DebjitPramanick](https://github.com/DebjitPramanick)
+    GitHub Username -  ![DebjitPramanick](https://github.com/DebjitPramanick)
 
 ## Features
 
